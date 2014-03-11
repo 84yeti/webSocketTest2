@@ -1,5 +1,5 @@
-require 'app'
-require 'websocketTest2/backend'
+require './app'
+require './websocketTest2/backend'
 
 use Websockettest2::Backend
 

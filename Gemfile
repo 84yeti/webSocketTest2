@@ -1,4 +1,8 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-# Specify your gem's dependencies in websocketTest2.gemspec
-gemspec
+ruby "2.1.0"
+
+gem "faye-websocket"
+gem "sinatra"
+gem "puma"
+gem "redis"

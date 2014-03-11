@@ -1,4 +1,4 @@
-Copyright (c) 2014 kyohei
+Copyright (c) 2014 84yeti
 
 MIT License
 

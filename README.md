@@ -1,29 +1,14 @@
-# WebsocketTest2
+websocketTest2
+============
 
-TODO: Write a gem description
+This is made for the team "755Apps". The linsens is [MIT].
 
-## Installation
+About
+---------
+SinatraでWebsocketのチャットを試作。
 
-Add this line to your application's Gemfile:
-
-    gem 'websocketTest2'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install websocketTest2
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( http://github.com/<my-github-username>/websocketTest2/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+License
+----------
+Copyright &copy; 84yeti.
+Distributed under the [MIT License][mit].
+[MIT]: http://www.opensource.org/licenses/mit-license.php
